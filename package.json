@@ -1,0 +1,22 @@
+{
+  "name": "config-unt",
+  "version": "1.0.0",
+  "description": "Configuraciones de Incuna UNT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/devcodela/config-unt.git"
+  },
+  "author": "Julio Giampiere Grados Caballero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/devcodela/config-unt/issues"
+  },
+  "homepage": "https://bitbucket.org/devcodela/config-unt#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
