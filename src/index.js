@@ -11,7 +11,7 @@ module.exports = {
   server: {
     port: process.env.PORT || 8001,
     env: process.env.NODE_ENV || 'development',
-    localUrl: 'https://bath-core-seo-walls.trycloudflare.com',
+    localUrl: 'https://wooden-samoa-however-grants.trycloudflare.com',
     productionUrl: 'https://api.accentus.com'
   },
   mongo: {
