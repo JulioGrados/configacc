@@ -11,12 +11,12 @@ module.exports = {
   server: {
     port: process.env.PORT || 8001,
     env: process.env.NODE_ENV || 'development',
-    localUrl: 'https://participant-cheers-tea-at.trycloudflare.com',
+    localUrl: 'https://brian-reservoir-wt-plays.trycloudflare.com',
     productionUrl: 'https://api.accentus.com'
   },
   mongo: {
     env: process.env.NODE_ENV || 'development',
-    localUrl: '127.0.0.1:27017/accentus',
+    localUrl: '2.tcp.ngrok.io:15718/accentus',
     productionUrl: 'mongo:carmenunt1@unt_accentus:27017/?tls=false'
   },
   auth: {
