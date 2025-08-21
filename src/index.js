@@ -11,7 +11,7 @@ module.exports = {
   server: {
     port: process.env.PORT || 8001,
     env: process.env.NODE_ENV || 'development',
-    localUrl: 'https://brian-reservoir-wt-plays.trycloudflare.com',
+    localUrl: 'https://bath-core-seo-walls.trycloudflare.com',
     productionUrl: 'https://api.accentus.com'
   },
   mongo: {
