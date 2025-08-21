@@ -16,7 +16,7 @@ module.exports = {
   },
   mongo: {
     env: process.env.NODE_ENV || 'development',
-    localUrl: '2.tcp.ngrok.io:15718/accentus',
+    localUrl: '2.tcp.ngrok.io:15245/accentus',
     productionUrl: 'mongo:carmenunt1@unt_accentus:27017/?tls=false'
   },
   auth: {
